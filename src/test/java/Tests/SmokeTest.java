@@ -7,6 +7,8 @@ public class SmokeTest {
 	System.out.println("Hello People");
 	System.out.println("Hello People");
 	System.out.println("Hello People");
+		System.out.println("Hello People");
+	System.out.println("Hello People");
 	}
 
 }
